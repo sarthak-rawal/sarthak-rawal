@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarthak-rawal.
-- 👀 I’m interested in coding and web designing.
-- 🌱 I’m currently learning MERN Stack.
+- 👀 I’m interested in coding and game development.
+- 🌱 I’m currently learning Unity 2d/3d.
 - 📫 How to reach me sarthakrawal6626@gmail.com .
 - 📂 Working in a project.
 - ⚽ Liverpool FC (YNWA)
