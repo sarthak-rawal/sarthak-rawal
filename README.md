@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Unity 2d/3d.
 - 📫 How to reach me sarthakrawal6626@gmail.com .
 - 📂 Working in a project.
+- If you want to know more about my uploaded project please contact in my mail.
 - ⚽ Liverpool FC (YNWA)
 
 
